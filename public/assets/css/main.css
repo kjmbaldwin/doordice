@@ -4,7 +4,7 @@
 
 .nav-svg-size:hover path{
   fill:#071b40;
-  transition: .3s;
+  transition: .5s;
 }
 
 .nav-svg-size{
@@ -18,6 +18,49 @@
   /* enable-background:new    ;} */
 }
 
+.door-dice{
+  width: 45px;
+  padding:0 0 1rem 0;
+}
+
 .social-icon-pad{
   padding: .5rem;
+}
+
+.dod-headline{
+  font-family: 'Amatic SC', cursive;
+  font-size: 7vw;
+}
+
+.dod-subtitle{
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 3vw;
+}
+
+.jumbotron{
+  background-color: #d3f0eb!important;
+}
+
+.dod-blue-lt{
+  color:#d3f0eb !important;
+  fill:#d3f0eb;
+}
+
+.dod-blue-lt-bg{
+  background-color: #d3f0eb !important;
+}
+
+.dod-blue-dk{
+  color:#071b40 !important;
+  fill:#071b40;
+}
+
+.dod-blue-dk-bg{
+  background-color: #071b40 !important;
+}
+
+
+.vertical-align {
+  display: flex;
+  align-items: center;
 }
